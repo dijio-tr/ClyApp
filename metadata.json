@@ -1,0 +1,6 @@
+{
+  "name": "Clyve app",
+  "description": "An AI-powered B2B client scout and sales intelligence hub wrapped in a beautiful, premium space-blue cockpit design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
